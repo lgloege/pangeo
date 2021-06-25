@@ -54,7 +54,7 @@ or browse our `GitHub repos <https://github.com/pangeo-data/>`_.
 What is Pangeo?
 ===============
 
-Pangeo is first and foremost a community promoting open, reproducible, and scalable science.
+ASDASDASD Pangeo is first and foremost a community promoting open, reproducible, and scalable science.
 This community provides documentation, develops and maintains software, and deploys
 computing infrastructure to make scientific research and programming easier.
 The Pangeo software ecosystem involves
