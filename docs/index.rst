@@ -38,7 +38,7 @@ or browse our `GitHub repos <https://github.com/pangeo-data/>`_.
 
     <div class="row">
      <div class="col-md-6 center-block">
-        <h2><a href="https://twitter.com/pangeo_data">Twitter Feed</a></h2>
+        <h2><a href="https://twitter.com/pangeo_data">Twitter FEED</a></h2>
         <p class="text-center font-italic">We use twitter to share announcements and retweet content of interest to our community.</p>
         <a class="twitter-timeline" data-width="100%" data-height="500" data-theme="light" data-link-color="#5eb130" href="https://twitter.com/pangeo_data?ref_src=twsrc%5Etfw">Tweets by pangeo_data</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
      </div>
