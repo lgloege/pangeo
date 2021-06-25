@@ -25,7 +25,7 @@ A community platform for Big Data geoscience
    :target: https://twitter.com/pangeo_data
    :alt: Twitter
 
-This website contains general information about the Pangeo project.
+ asdfasdf asdf This asdfasdf asdf website contains general information about the Pangeo project.
 For news and updates about Pangeo, check out our
 `Medium blog <https://medium.com/pangeo>`_ and our
 `Twitter feed <https://twitter.com/pangeo_data>`_.
